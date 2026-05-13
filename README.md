@@ -1,6 +1,6 @@
 # Sales-Management-Analysis
 ## Business Request & User Stories
-The business request for this data analyst project was an executive sales report for sales managers. Based on the request that was made from the business we following user stories were defined to fulfill delivery and ensure that acceptance criteria’s were maintained throughout the project.
+The business request for this data analyst project was an executive sales report for sales managers. Based on the request that was made from the business i following user stories were defined to fulfill delivery and ensure that acceptance criteria’s were maintained throughout the project.
 | # | As a (Role) | I want (Request / Demand) | So that I (User Value) | Acceptance Criteria |
 |---|--------------|----------------------------|-------------------------|---------------------|
 | 1 | Sales Manager | To get a dashboard overview of internet sales | Can easily identify which customers and products perform best | A Power BI dashboard that updates automatically once per day |
